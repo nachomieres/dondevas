@@ -12,7 +12,7 @@ $ npm install -g ionic
 y despues:
 
 ```bash
-$ ionic start dondevoy https://github.com/nachomieres/dondevas --v2
+$ ionic start dondevas https://github.com/nachomieres/dondevas --v2
 ```
 Una vez dentro de la carpeta del proyecto, se necesita añadir Firebase:
 
